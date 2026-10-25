@@ -2,7 +2,7 @@
 
 ## Consignes
 
-Crée une fonction `genererMotDePasse` qui :
+Créez une fonction `genererMotDePasse` qui :
 - Convertit les lettres paires en majuscules, les impaires en minuscules.
 - Remplace les lettres "a", "e", "i", "o" par @, 3, 1, 0.
 - Ajoute la longueur du mot à la fin.
